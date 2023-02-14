@@ -1,0 +1,62 @@
+.App {
+  padding: 0;
+  margin: 0;
+}
+.img {
+  height: 230px;
+}
+.card {
+  padding-top: 10px;
+  height: 100%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+.bi {
+  text-align: right;
+  padding-right: 10px;
+  font-size: 26px;
+  cursor: pointer;
+}
+h5 {
+  padding-top: 15px;
+}
+.navbar-brand {
+  margin-left: 10px;
+  font-family: cursive;
+  font-weight: bolder;
+  font-size: x-large;
+}
+li {
+  padding-right: 15px;
+  font-weight: bold;
+  color: white;
+}
+/* i:hover {
+  color: rgb(61, 65, 255);
+  cursor: pointer;
+} */
+.fa-trash-alt:hover {
+  color: rgb(255, 0, 0) !important;
+  cursor: pointer;
+}
+.fa-pen:hover {
+  color: rgb(50, 14, 255) !important;
+  cursor: pointer;
+}
+.fa-eye:hover {
+  color: forestgreen !important;
+  cursor: pointer;
+}
+.btn {
+  padding: 5px 25px;
+  margin-top: 10px;
+}
+@media (max-width: 768px) {
+  img {
+    height: 100%;
+  }
+}
+@media (max-width: 575px) {
+  .container {
+    width: 90%;
+  }
+}
