@@ -1,0 +1,316 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "movie": "movie 1",
+      "title": "title1",
+      "songLength": "3.50",
+      "singer": "ar rah"
+    },
+    {
+      "id": 2,
+      "movie": "movie 2",
+      "title": "title2",
+      "songLength": "8.50",
+      "singer": "ar "
+    },
+    {
+      "id": 3,
+      "movie": "movie 3",
+      "title": "title3",
+      "songLength": "9.50",
+      "singer": "afaf"
+    },
+    {
+      "id": 4,
+      "movie": "movie 4",
+      "title": "title4",
+      "songLength": "3.99",
+      "singer": "afjfnnjah"
+    },
+    {
+      "id": 216104,
+      "movie": "rak",
+      "title": "new anem",
+      "songLength": "23",
+      "singer": "jbiber"
+    },
+    {
+      "id": 433367,
+      "movie": "new s",
+      "title": "new anme",
+      "songLength": "66",
+      "singer": "rakejs"
+    },
+    {
+      "id": 587666,
+      "movie": "mys ",
+      "title": "dfa",
+      "songLength": "fa",
+      "singer": "rew"
+    },
+    {
+      "id": 320465,
+      "movie": "hgohouhi",
+      "title": "gfgkglh",
+      "songLength": "67",
+      "singer": "hhghkgh"
+    }
+  ],
+  "data": [
+    {
+      "email": "rakesh@g.com",
+      "password": "123456",
+      "firstName": "rakesh",
+      "lastName": "rakesh",
+      "location": "mamdnnd",
+      "mobileNo": "9876543210",
+      "id": 1
+    },
+    {
+      "email": "rakesh01@g.com",
+      "password": "123456",
+      "firstName": "fafafafaf",
+      "lastName": "klajgjbkhj",
+      "location": "ioghahgg",
+      "mobileNo": "798658859425",
+      "id": 2
+    },
+    {
+      "email": "me@gmail.com",
+      "password": "123456",
+      "firstName": "me",
+      "lastName": "123",
+      "location": "bngda",
+      "mobileNo": "87788776677",
+      "id": 3
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "123456",
+      "firstName": "Eren ",
+      "lastName": "yeagar",
+      "location": "paradis",
+      "mobileNo": "7899877898",
+      "id": 4
+    },
+    {
+      "email": "luffy@gmail.com",
+      "password": "123456",
+      "firstName": "Monkey",
+      "lastName": "D luffy",
+      "location": "grand line",
+      "mobileNo": "89889889776",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "productName": "X box updated",
+      "description": "This is a xbox  used to play games",
+      "manufacturer": "Microsoft",
+      "price": "120",
+      "quantity": "258",
+      "view": "20",
+      "id": 4
+    },
+    {
+      "productName": "Play Station",
+      "description": "Thi is a Play Station",
+      "manufacturer": "sony",
+      "price": "300",
+      "quantity": "10",
+      "view": "2",
+      "id": 5
+    },
+    {
+      "productName": "Mobile upd",
+      "description": "This a Mobile upd",
+      "manufacturer": "Apple orange",
+      "price": "1299",
+      "quantity": "401",
+      "id": 6
+    },
+    {
+      "productName": "play box",
+      "description": "This is a play box",
+      "manufacturer": "mine",
+      "price": "560",
+      "quantity": "899",
+      "view": "7",
+      "id": 7
+    },
+    {
+      "productName": "box station",
+      "description": "This is box station",
+      "manufacturer": "xony",
+      "price": "656",
+      "quantity": "99",
+      "view": "4",
+      "id": 8
+    },
+    {
+      "productName": "MacBook",
+      "description": "This laptop is for editing",
+      "manufacturer": "Apple",
+      "price": "2400",
+      "quantity": "15",
+      "view": "60",
+      "id": 12
+    },
+    {
+      "productName": "PSP",
+      "description": "Hand console for video Games",
+      "manufacturer": "sony",
+      "price": "1255",
+      "quantity": "10",
+      "view": "33",
+      "id": 13
+    },
+    {
+      "productName": "Galaxy sz",
+      "description": "New Samsung Mobile Phone",
+      "manufacturer": "Samsung",
+      "price": "9090",
+      "quantity": "15",
+      "view": "0",
+      "id": 14
+    },
+    {
+      "productName": "Nissan GTR",
+      "description": "This is a super Car",
+      "manufacturer": "Nissan Motors",
+      "price": "250000",
+      "quantity": "3",
+      "view": "0",
+      "id": 15
+    },
+    {
+      "productName": "Device X",
+      "description": "This is a Device x",
+      "manufacturer": "x factor",
+      "price": "788",
+      "quantity": "34",
+      "view": "0",
+      "id": 16
+    },
+    {
+      "productName": "BMW updated",
+      "description": "Thiis is a car  updated",
+      "manufacturer": "batmants",
+      "price": "23000",
+      "quantity": "3",
+      "id": 17
+    },
+    {
+      "productName": "DELL",
+      "description": "Laptop for editing and coding",
+      "manufacturer": "Dell INC",
+      "price": "200",
+      "quantity": "12",
+      "view": "0",
+      "id": 18
+    },
+    {
+      "productName": "Iphone",
+      "description": "This is a brand new iphoen for iphone purposes manufactured by apple and ootheres",
+      "manufacturer": "apple",
+      "price": "230",
+      "quantity": "4",
+      "view": "0",
+      "id": 19
+    },
+    {
+      "productName": "ipad",
+      "description": "This is a ipad",
+      "manufacturer": "Apple banana",
+      "price": "788",
+      "quantity": "23",
+      "view": "0",
+      "id": 20
+    },
+    {
+      "productName": "play games",
+      "description": "this is games app to track game stats",
+      "manufacturer": "Google",
+      "price": "0.1",
+      "quantity": "1999",
+      "view": "0",
+      "id": 21
+    },
+    {
+      "productName": "Electric Vehicle",
+      "description": "th is s cart fof s",
+      "manufacturer": "ola",
+      "price": "566",
+      "quantity": "3",
+      "view": "0",
+      "id": 22
+    }
+  ],
+  "images": [
+    {
+      "pic": "https://i.pinimg.com/236x/52/c3/47/52c34727d2129c40130860f7ea461974.jpg"
+    },
+    {
+      "pic": "https://i.pinimg.com/236x/84/9e/68/849e68555ce8733df97eebe167f3c77a.jpg"
+    },
+    {
+      "pic": "https://i.pinimg.com/236x/ed/de/57/edde577f58591246d7e7a3b6eeb44b2b.jpg"
+    },
+    {
+      "pic": "https://i.pinimg.com/236x/1a/32/3d/1a323dba38c813fead7aec1c0b427546.jpg"
+    },
+    {
+      "pic": "https://i.pinimg.com/236x/41/d5/46/41d54632be8427a46d499b1ce1776508.jpg"
+    },
+    {
+      "pic": "https://i.pinimg.com/236x/be/a3/12/bea31296162a1c6d82f7cfa90a14d60b.jpg"
+    },
+    {
+      "pic": "https://i.pinimg.com/236x/52/c3/47/52c34727d2129c40130860f7ea461974.jpg"
+    },
+    {
+      "pic": "https://i.pinimg.com/236x/40/01/02/400102ab12948719fc16b7bc088fa38c.jpg"
+    },
+    {
+      "pic": "https://i.pinimg.com/236x/ed/de/57/edde577f58591246d7e7a3b6eeb44b2b.jpg"
+    },
+    {
+      "pic": "https://i.pinimg.com/236x/1a/32/3d/1a323dba38c813fead7aec1c0b427546.jpg"
+    },
+    {
+      "pic": "https://i.pinimg.com/236x/41/d5/46/41d54632be8427a46d499b1ce1776508.jpg"
+    },
+    {
+      "pic": "https://i.pinimg.com/236x/be/a3/12/bea31296162a1c6d82f7cfa90a14d60b.jpg"
+    },
+    {
+      "pic": "https://i.pinimg.com/236x/52/c3/47/52c34727d2129c40130860f7ea461974.jpg"
+    },
+    {
+      "pic": "https://i.pinimg.com/236x/84/9e/68/849e68555ce8733df97eebe167f3c77a.jpg"
+    },
+    {
+      "pic": "https://i.pinimg.com/236x/ed/de/57/edde577f58591246d7e7a3b6eeb44b2b.jpg"
+    },
+    {
+      "pic": "https://i.pinimg.com/236x/c8/5c/18/c85c18f84992353e077f5c9e8954af51.jpg"
+    },
+    {
+      "pic": "https://i.pinimg.com/236x/ed/de/57/edde577f58591246d7e7a3b6eeb44b2b.jpg"
+    },
+    {
+      "pic": "https://i.pinimg.com/236x/1a/32/3d/1a323dba38c813fead7aec1c0b427546.jpg"
+    },
+    {
+      "pic": "https://i.pinimg.com/236x/41/d5/46/41d54632be8427a46d499b1ce1776508.jpg"
+    },
+    {
+      "pic": "https://i.pinimg.com/236x/be/a3/12/bea31296162a1c6d82f7cfa90a14d60b.jpg"
+    },
+    {
+      "pic": "https://i.pinimg.com/236x/52/c3/47/52c34727d2129c40130860f7ea461974.jpg"
+    }
+  ]
+}
